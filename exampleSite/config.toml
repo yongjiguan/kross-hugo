@@ -1,4 +1,4 @@
-baseURL = "http://kross.netlify.com"
+baseURL = "http://kross.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
